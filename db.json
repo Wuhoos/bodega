@@ -1,12 +1,6 @@
 {
   "inventory": [
     {
-      "id": 1,
-      "image": "./images/doritos.jpeg",
-      "name": "Doritos",
-      "price": 4.99
-    },
-    {
       "id": 2,
       "image": "./images/ben-jerry.png",
       "name": "Ben & Jerry's",
